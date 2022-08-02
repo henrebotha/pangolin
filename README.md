@@ -24,7 +24,7 @@ Then you need to get 20×20 mm aluminium extrusions (aka 8020 profiles, T-slot s
 | 125 mm | 2× |
 | 89 mm | 2× |
 
-You also need 4× little gusseted brackets measuring about 20×20×20 mm, appropriate hardware for fixing them to the extrusions, and some end caps for the extrusions. All of these things can be bought from places that sell aluminium extrusions, including but not limited to: Motedis, 8020, Aluxprofiel…
+You also need 4× little gusseted brackets (see [this image](./bracket.png)) measuring about 20×20×20 mm, appropriate hardware for fixing them to the extrusions, and some end caps for the extrusions. All of these things can be bought from places that sell aluminium extrusions, including but not limited to: Motedis, 8020, Aluxprofiel…
 
 You will need M3 bolts to assemble this build. A length of about 8 mm is appropriate for the top panels, and about 6 mm for the bottom and the connector panel. You will need M3 nuts for connecting the switch plate to the brackets. You will also need twist-in M3 T-nuts to hold the various bolts in the frame.
 
