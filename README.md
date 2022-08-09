@@ -6,6 +6,12 @@ For now, this contains the files needed to produce the "default configuration", 
 
 ![An example Pangolin build](pangolin-1.jpg)
 
+## Files
+
+The `cad` directory contains CAD project files used to generate the designs for printing, cutting, etc.
+
+The `parts` directory contains the files for manufacturing the parts for the default build.
+
 ## Shopping list
 
 ### Enclosure
