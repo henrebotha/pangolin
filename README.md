@@ -38,7 +38,7 @@ You will need 6 mm M3 spacer bolts for attaching the auxiliary buttons PCBs to t
 
 ### Electronics
 
-You will need 12× keyboard switches in the MX form factor. [There are many out there](switches.mx/switches); what you choose will be a matter of personal preference. If you're not sure what to pick, a linear switch (often identified as Black, Red, or Silver) is a great starting point.
+You will need 12× keyboard switches in the MX form factor. [There are many out there](https://switches.mx/switches); what you choose will be a matter of personal preference. If you're not sure what to pick, a linear switch (often identified as Black, Red, or Silver) is a great starting point.
 
 You will need 12× round keycaps to fit these switches. The control panel has 22 mm cutouts, which means you should use keycaps less than 21 mm in diameter. I recommend [these](https://github.com/rana-sylvatica/circle-keycaps), which you can have printed cheaply in MJF PA12 nylon at JLCPCB & which feel fantastic to use. (Note that other keycaps might not be the same height; this can be a problem if you use shallower caps, as they will not protrude an appropriate distance from the control panel, and therefore be annoying to press.)
 
