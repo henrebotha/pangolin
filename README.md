@@ -53,3 +53,7 @@ You will need an encoder PCB. The enclosure is nominally designed to accept a Br
 You will need a panel-mount USB passthrough similar to the [Adafruit 907](https://www.adafruit.com/product/907) (Brook) or [Adafruit 937](https://www.adafruit.com/product/937) (Pico). Variations on this can be found on Amazon, Aliexpress, etc, with slightly varying dimensions (particularly mounting hole distance). The connector panel _should_ accommodate most of these, but only the Adafruit ones have been explicitly tested for fit.
 
 You can optionally get a [Player LEDs PCB](https://bitbanggaming.com/products/player-leds-pcb) from Bit Bang Gaming; the control panel has mounting holes for the screws & holes for the light pipes.
+
+# Community
+
+This project has a dedicated [Discord server](https://discord.gg/UYDxp4wrGX), which is the best place to ask for help, give feedback, or just show off what you've built.
